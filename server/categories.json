@@ -1,0 +1,2694 @@
+{
+  "Animals": [
+    {
+      "word": "aslan",
+      "hint": "vahşi"
+    },
+    {
+      "word": "kaplan",
+      "hint": "vahşi"
+    },
+    {
+      "word": "leopar",
+      "hint": "vahşi"
+    },
+    {
+      "word": "çita",
+      "hint": "vahşi"
+    },
+    {
+      "word": "kedi",
+      "hint": "evcil"
+    },
+    {
+      "word": "köpek",
+      "hint": "evcil"
+    },
+    {
+      "word": "ayı",
+      "hint": "doğa"
+    },
+    {
+      "word": "panda",
+      "hint": "doğa"
+    },
+    {
+      "word": "vaşak",
+      "hint": "vahşi"
+    },
+    {
+      "word": "puma",
+      "hint": "vahşi"
+    },
+    {
+      "word": "jaguar",
+      "hint": "vahşi"
+    },
+    {
+      "word": "tilki",
+      "hint": "vahşi"
+    },
+    {
+      "word": "sırtlan",
+      "hint": "vahşi"
+    },
+    {
+      "word": "çakal",
+      "hint": "vahşi"
+    },
+    {
+      "word": "kurt",
+      "hint": "vahşi"
+    },
+    {
+      "word": "rakun",
+      "hint": "doğa"
+    },
+    {
+      "word": "kokarca",
+      "hint": "doğa"
+    },
+    {
+      "word": "gelincik",
+      "hint": "doğa"
+    },
+    {
+      "word": "sansar",
+      "hint": "doğa"
+    },
+    {
+      "word": "tavşan",
+      "hint": "doğa"
+    },
+    {
+      "word": "sincap",
+      "hint": "doğa"
+    },
+    {
+      "word": "kunduz",
+      "hint": "doğa"
+    },
+    {
+      "word": "su samuru",
+      "hint": "doğa"
+    },
+    {
+      "word": "fil",
+      "hint": "savana"
+    },
+    {
+      "word": "zebra",
+      "hint": "savana"
+    },
+    {
+      "word": "zürafa",
+      "hint": "savana"
+    },
+    {
+      "word": "geyik",
+      "hint": "savana"
+    },
+    {
+      "word": "antilop",
+      "hint": "savana"
+    },
+    {
+      "word": "bufalo",
+      "hint": "savana"
+    },
+    {
+      "word": "boğa",
+      "hint": "köy"
+    },
+    {
+      "word": "inek",
+      "hint": "köy"
+    },
+    {
+      "word": "keçi",
+      "hint": "köy"
+    },
+    {
+      "word": "koyun",
+      "hint": "köy"
+    },
+    {
+      "word": "at",
+      "hint": "evcil"
+    },
+    {
+      "word": "eşek",
+      "hint": "evcil"
+    },
+    {
+      "word": "domuz",
+      "hint": "evcil"
+    },
+    {
+      "word": "timsah",
+      "hint": "sürüngen"
+    },
+    {
+      "word": "kaplumbağa",
+      "hint": "sürüngen"
+    },
+    {
+      "word": "iguana",
+      "hint": "sürüngen"
+    },
+    {
+      "word": "kertenkele",
+      "hint": "sürüngen"
+    },
+    {
+      "word": "yılan",
+      "hint": "sürüngen"
+    },
+    {
+      "word": "kurbağa",
+      "hint": "sürüngen"
+    },
+    {
+      "word": "semender",
+      "hint": "sürüngen"
+    },
+    {
+      "word": "balina",
+      "hint": "deniz"
+    },
+    {
+      "word": "yunus",
+      "hint": "deniz"
+    },
+    {
+      "word": "köpekbalığı",
+      "hint": "deniz"
+    },
+    {
+      "word": "vatoz",
+      "hint": "deniz"
+    },
+    {
+      "word": "ahtapot",
+      "hint": "deniz"
+    },
+    {
+      "word": "mürekkep balığı",
+      "hint": "deniz"
+    },
+    {
+      "word": "yengeç",
+      "hint": "deniz"
+    },
+    {
+      "word": "ıstakoz",
+      "hint": "deniz"
+    },
+    {
+      "word": "karides",
+      "hint": "deniz"
+    },
+    {
+      "word": "penguen",
+      "hint": "deniz"
+    },
+    {
+      "word": "martı",
+      "hint": "deniz"
+    },
+    {
+      "word": "kartal",
+      "hint": "uçuş"
+    },
+    {
+      "word": "şahin",
+      "hint": "uçuş"
+    },
+    {
+      "word": "baykuş",
+      "hint": "uçuş"
+    },
+    {
+      "word": "serçe",
+      "hint": "uçuş"
+    },
+    {
+      "word": "leylek",
+      "hint": "uçuş"
+    },
+    {
+      "word": "turna",
+      "hint": "uçuş"
+    },
+    {
+      "word": "flamingo",
+      "hint": "uçuş"
+    }
+  ],
+  "Food": [
+    {
+      "word": "pizza",
+      "hint": "fastfood"
+    },
+    {
+      "word": "hamburger",
+      "hint": "fastfood"
+    },
+    {
+      "word": "sushi",
+      "hint": "atıştırma"
+    },
+    {
+      "word": "kebap",
+      "hint": "ızgara"
+    },
+    {
+      "word": "makarna",
+      "hint": "ana"
+    },
+    {
+      "word": "salata",
+      "hint": "ana"
+    },
+    {
+      "word": "mantı",
+      "hint": "ana"
+    },
+    {
+      "word": "dürüm",
+      "hint": "fastfood"
+    },
+    {
+      "word": "lahmacun",
+      "hint": "fastfood"
+    },
+    {
+      "word": "tiramisu",
+      "hint": "tatlı"
+    },
+    {
+      "word": "baklava",
+      "hint": "tatlı"
+    },
+    {
+      "word": "döner",
+      "hint": "fastfood"
+    },
+    {
+      "word": "börek",
+      "hint": "ana"
+    },
+    {
+      "word": "köfte",
+      "hint": "fastfood"
+    },
+    {
+      "word": "iskender",
+      "hint": "ızgara"
+    },
+    {
+      "word": "tantuni",
+      "hint": "fastfood"
+    },
+    {
+      "word": "kumpir",
+      "hint": "ana"
+    },
+    {
+      "word": "gözleme",
+      "hint": "kahvaltı"
+    },
+    {
+      "word": "simit",
+      "hint": "kahvaltı"
+    },
+    {
+      "word": "mercimek çorbası",
+      "hint": "çorba"
+    },
+    {
+      "word": "ezogelin",
+      "hint": "çorba"
+    },
+    {
+      "word": "yayla çorbası",
+      "hint": "çorba"
+    },
+    {
+      "word": "tarhana",
+      "hint": "çorba"
+    },
+    {
+      "word": "pilav",
+      "hint": "ana"
+    },
+    {
+      "word": "kuru fasulye",
+      "hint": "ana"
+    },
+    {
+      "word": "nohut",
+      "hint": "ana"
+    },
+    {
+      "word": "dolma",
+      "hint": "ana"
+    },
+    {
+      "word": "yaprak sarma",
+      "hint": "ana"
+    },
+    {
+      "word": "imam bayıldı",
+      "hint": "ana"
+    },
+    {
+      "word": "patlıcan kebabı",
+      "hint": "ızgara"
+    },
+    {
+      "word": "ciğer",
+      "hint": "ızgara"
+    },
+    {
+      "word": "balık ekmek",
+      "hint": "fastfood"
+    },
+    {
+      "word": "hamsi tava",
+      "hint": "ızgara"
+    },
+    {
+      "word": "levrek",
+      "hint": "ızgara"
+    },
+    {
+      "word": "çupra",
+      "hint": "ızgara"
+    },
+    {
+      "word": "midye dolma",
+      "hint": "ızgara"
+    },
+    {
+      "word": "kokoreç",
+      "hint": "ızgara"
+    },
+    {
+      "word": "sucuk",
+      "hint": "ızgara"
+    },
+    {
+      "word": "pastırma",
+      "hint": "ızgara"
+    },
+    {
+      "word": "omlet",
+      "hint": "kahvaltı"
+    },
+    {
+      "word": "menemen",
+      "hint": "kahvaltı"
+    },
+    {
+      "word": "kazandibi",
+      "hint": "tatlı"
+    },
+    {
+      "word": "sütlaç",
+      "hint": "tatlı"
+    },
+    {
+      "word": "muhallebi",
+      "hint": "tatlı"
+    },
+    {
+      "word": "aşure",
+      "hint": "tatlı"
+    },
+    {
+      "word": "künefe",
+      "hint": "tatlı"
+    },
+    {
+      "word": "lokum",
+      "hint": "tatlı"
+    },
+    {
+      "word": "helva",
+      "hint": "tatlı"
+    },
+    {
+      "word": "profiterol",
+      "hint": "tatlı"
+    },
+    {
+      "word": "ekler",
+      "hint": "tatlı"
+    },
+    {
+      "word": "cheesecake",
+      "hint": "tatlı"
+    },
+    {
+      "word": "waffle",
+      "hint": "kahvaltı"
+    },
+    {
+      "word": "pankek",
+      "hint": "kahvaltı"
+    },
+    {
+      "word": "dondurma",
+      "hint": "tatlı"
+    },
+    {
+      "word": "çiğ köfte",
+      "hint": "fastfood"
+    },
+    {
+      "word": "paça çorbası",
+      "hint": "çorba"
+    },
+    {
+      "word": "işkembe çorbası",
+      "hint": "çorba"
+    },
+    {
+      "word": "fırın sütlaç",
+      "hint": "tatlı"
+    }
+  ],
+  "Sports": [
+    {
+      "word": "futbol",
+      "hint": "takım"
+    },
+    {
+      "word": "basketbol",
+      "hint": "takım"
+    },
+    {
+      "word": "voleybol",
+      "hint": "takım"
+    },
+    {
+      "word": "tenis",
+      "hint": "raket"
+    },
+    {
+      "word": "badminton",
+      "hint": "raket"
+    },
+    {
+      "word": "masa tenisi",
+      "hint": "raket"
+    },
+    {
+      "word": "hentbol",
+      "hint": "takım"
+    },
+    {
+      "word": "ragbi",
+      "hint": "takım"
+    },
+    {
+      "word": "kriket",
+      "hint": "takım"
+    },
+    {
+      "word": "beyzbol",
+      "hint": "takım"
+    },
+    {
+      "word": "hokey",
+      "hint": "takım"
+    },
+    {
+      "word": "buz hokeyi",
+      "hint": "takım"
+    },
+    {
+      "word": "güreş",
+      "hint": "dövüş"
+    },
+    {
+      "word": "boks",
+      "hint": "dövüş"
+    },
+    {
+      "word": "tekvando",
+      "hint": "dövüş"
+    },
+    {
+      "word": "karate",
+      "hint": "dövüş"
+    },
+    {
+      "word": "judo",
+      "hint": "dövüş"
+    },
+    {
+      "word": "eskrim",
+      "hint": "dövüş"
+    },
+    {
+      "word": "okçuluk",
+      "hint": "atıcılık"
+    },
+    {
+      "word": "atletizm",
+      "hint": "pist"
+    },
+    {
+      "word": "maraton",
+      "hint": "pist"
+    },
+    {
+      "word": "yarı maraton",
+      "hint": "pist"
+    },
+    {
+      "word": "kısa koşu",
+      "hint": "pist"
+    },
+    {
+      "word": "yüksek atlama",
+      "hint": "mücadele"
+    },
+    {
+      "word": "uzun atlama",
+      "hint": "pist"
+    },
+    {
+      "word": "üç adım",
+      "hint": "pist"
+    },
+    {
+      "word": "gülle atma",
+      "hint": "atıcılık"
+    },
+    {
+      "word": "cirit",
+      "hint": "atıcılık"
+    },
+    {
+      "word": "disk atma",
+      "hint": "atıcılık"
+    },
+    {
+      "word": "yüzme",
+      "hint": "su"
+    },
+    {
+      "word": "dalma",
+      "hint": "su"
+    },
+    {
+      "word": "su topu",
+      "hint": "takım"
+    },
+    {
+      "word": "kano",
+      "hint": "su"
+    },
+    {
+      "word": "kürek",
+      "hint": "su"
+    },
+    {
+      "word": "yelken",
+      "hint": "su"
+    },
+    {
+      "word": "sörf",
+      "hint": "su"
+    },
+    {
+      "word": "rüzgar sörfü",
+      "hint": "su"
+    },
+    {
+      "word": "dağcılık",
+      "hint": "bireysel"
+    },
+    {
+      "word": "tırmanış",
+      "hint": "bireysel"
+    },
+    {
+      "word": "kayak",
+      "hint": "kış"
+    },
+    {
+      "word": "snowboard",
+      "hint": "kış"
+    },
+    {
+      "word": "biatlon",
+      "hint": "kış"
+    },
+    {
+      "word": "satranç",
+      "hint": "bireysel"
+    },
+    {
+      "word": "e-spor",
+      "hint": "bireysel"
+    },
+    {
+      "word": "triatlon",
+      "hint": "bireysel"
+    },
+    {
+      "word": "pentatlon",
+      "hint": "bireysel"
+    },
+    {
+      "word": "bisiklet",
+      "hint": "bisiklet"
+    },
+    {
+      "word": "bmx",
+      "hint": "bisiklet"
+    },
+    {
+      "word": "dağ bisikleti",
+      "hint": "bisiklet"
+    },
+    {
+      "word": "yol bisikleti",
+      "hint": "bisiklet"
+    },
+    {
+      "word": "skateboard",
+      "hint": "bireysel"
+    },
+    {
+      "word": "parkur",
+      "hint": "bireysel"
+    },
+    {
+      "word": "motokros",
+      "hint": "motor"
+    },
+    {
+      "word": "formula 1",
+      "hint": "motor"
+    },
+    {
+      "word": "ralli",
+      "hint": "motor"
+    },
+    {
+      "word": "drift",
+      "hint": "motor"
+    },
+    {
+      "word": "okyanus yüzmesi",
+      "hint": "su"
+    },
+    {
+      "word": "kickboks",
+      "hint": "dövüş"
+    }
+  ],
+  "Movies": [
+    {
+      "word": "Matrix",
+      "hint": "film"
+    },
+    {
+      "word": "Titanic",
+      "hint": "film"
+    },
+    {
+      "word": "Inception",
+      "hint": "film"
+    },
+    {
+      "word": "Avatar",
+      "hint": "film"
+    },
+    {
+      "word": "Joker",
+      "hint": "film"
+    },
+    {
+      "word": "Gladiator",
+      "hint": "film"
+    },
+    {
+      "word": "The Godfather",
+      "hint": "film"
+    },
+    {
+      "word": "Interstellar",
+      "hint": "film"
+    },
+    {
+      "word": "Parasite",
+      "hint": "film"
+    },
+    {
+      "word": "Amélie",
+      "hint": "film"
+    },
+    {
+      "word": "The Dark Knight",
+      "hint": "film"
+    },
+    {
+      "word": "Pulp Fiction",
+      "hint": "film"
+    },
+    {
+      "word": "Forrest Gump",
+      "hint": "film"
+    },
+    {
+      "word": "Fight Club",
+      "hint": "film"
+    },
+    {
+      "word": "The Shawshank Redemption",
+      "hint": "film"
+    },
+    {
+      "word": "The Lord of the Rings",
+      "hint": "film"
+    },
+    {
+      "word": "Star Wars",
+      "hint": "film"
+    },
+    {
+      "word": "La La Land",
+      "hint": "film"
+    },
+    {
+      "word": "Whiplash",
+      "hint": "film"
+    },
+    {
+      "word": "Her",
+      "hint": "film"
+    },
+    {
+      "word": "Spirited Away",
+      "hint": "film"
+    },
+    {
+      "word": "Your Name",
+      "hint": "film"
+    },
+    {
+      "word": "Coco",
+      "hint": "film"
+    },
+    {
+      "word": "Up",
+      "hint": "film"
+    },
+    {
+      "word": "Wall-E",
+      "hint": "film"
+    },
+    {
+      "word": "Toy Story",
+      "hint": "film"
+    },
+    {
+      "word": "Inside Out",
+      "hint": "film"
+    },
+    {
+      "word": "The Green Mile",
+      "hint": "film"
+    },
+    {
+      "word": "Se7en",
+      "hint": "film"
+    },
+    {
+      "word": "Memento",
+      "hint": "film"
+    },
+    {
+      "word": "The Prestige",
+      "hint": "film"
+    },
+    {
+      "word": "Django Unchained",
+      "hint": "film"
+    },
+    {
+      "word": "Inglourious Basterds",
+      "hint": "film"
+    },
+    {
+      "word": "The Pianist",
+      "hint": "film"
+    },
+    {
+      "word": "Schindler's List",
+      "hint": "film"
+    },
+    {
+      "word": "Goodfellas",
+      "hint": "film"
+    },
+    {
+      "word": "Braveheart",
+      "hint": "film"
+    },
+    {
+      "word": "A Beautiful Mind",
+      "hint": "film"
+    },
+    {
+      "word": "The Social Network",
+      "hint": "film"
+    },
+    {
+      "word": "The Truman Show",
+      "hint": "film"
+    },
+    {
+      "word": "Oldboy",
+      "hint": "film"
+    },
+    {
+      "word": "City of God",
+      "hint": "film"
+    },
+    {
+      "word": "Amadeus",
+      "hint": "film"
+    },
+    {
+      "word": "Blade Runner",
+      "hint": "film"
+    },
+    {
+      "word": "Alien",
+      "hint": "film"
+    },
+    {
+      "word": "2001: A Space Odyssey",
+      "hint": "bilimkurgu"
+    },
+    {
+      "word": "The Silence of the Lambs",
+      "hint": "film"
+    },
+    {
+      "word": "No Country for Old Men",
+      "hint": "film"
+    },
+    {
+      "word": "There Will Be Blood",
+      "hint": "film"
+    },
+    {
+      "word": "The Grand Budapest Hotel",
+      "hint": "film"
+    },
+    {
+      "word": "Moonlight",
+      "hint": "film"
+    },
+    {
+      "word": "Arrival",
+      "hint": "film"
+    },
+    {
+      "word": "Gravity",
+      "hint": "film"
+    },
+    {
+      "word": "Mad Max: Fury Road",
+      "hint": "film"
+    },
+    {
+      "word": "Birdman",
+      "hint": "film"
+    },
+    {
+      "word": "The Revenant",
+      "hint": "film"
+    },
+    {
+      "word": "Drive",
+      "hint": "film"
+    },
+    {
+      "word": "Whale Rider",
+      "hint": "film"
+    },
+    {
+      "word": "Blue Jasmine",
+      "hint": "film"
+    },
+    {
+      "word": "Parasite 2",
+      "hint": "film"
+    }
+  ],
+  "Countries": [
+    {
+      "word": "Türkiye",
+      "hint": "dünya"
+    },
+    {
+      "word": "Yunanistan",
+      "hint": "dünya"
+    },
+    {
+      "word": "Bulgaristan",
+      "hint": "dünya"
+    },
+    {
+      "word": "Romanya",
+      "hint": "dünya"
+    },
+    {
+      "word": "Sırbistan",
+      "hint": "dünya"
+    },
+    {
+      "word": "Hırvatistan",
+      "hint": "dünya"
+    },
+    {
+      "word": "Slovenya",
+      "hint": "dünya"
+    },
+    {
+      "word": "Macaristan",
+      "hint": "dünya"
+    },
+    {
+      "word": "Avusturya",
+      "hint": "dünya"
+    },
+    {
+      "word": "Almanya",
+      "hint": "dünya"
+    },
+    {
+      "word": "Fransa",
+      "hint": "dünya"
+    },
+    {
+      "word": "İtalya",
+      "hint": "dünya"
+    },
+    {
+      "word": "İspanya",
+      "hint": "dünya"
+    },
+    {
+      "word": "Portekiz",
+      "hint": "dünya"
+    },
+    {
+      "word": "İngiltere",
+      "hint": "dünya"
+    },
+    {
+      "word": "İrlanda",
+      "hint": "dünya"
+    },
+    {
+      "word": "Norveç",
+      "hint": "dünya"
+    },
+    {
+      "word": "İsveç",
+      "hint": "dünya"
+    },
+    {
+      "word": "Finlandiya",
+      "hint": "dünya"
+    },
+    {
+      "word": "Danimarka",
+      "hint": "dünya"
+    },
+    {
+      "word": "Polonya",
+      "hint": "dünya"
+    },
+    {
+      "word": "Çekya",
+      "hint": "dünya"
+    },
+    {
+      "word": "Slovakya",
+      "hint": "dünya"
+    },
+    {
+      "word": "Ukrayna",
+      "hint": "dünya"
+    },
+    {
+      "word": "Belarus",
+      "hint": "dünya"
+    },
+    {
+      "word": "Rusya",
+      "hint": "dünya"
+    },
+    {
+      "word": "Gürcistan",
+      "hint": "dünya"
+    },
+    {
+      "word": "Azerbaycan",
+      "hint": "dünya"
+    },
+    {
+      "word": "Ermenistan",
+      "hint": "dünya"
+    },
+    {
+      "word": "İran",
+      "hint": "dünya"
+    },
+    {
+      "word": "Irak",
+      "hint": "dünya"
+    },
+    {
+      "word": "Suriye",
+      "hint": "dünya"
+    },
+    {
+      "word": "Lübnan",
+      "hint": "dünya"
+    },
+    {
+      "word": "İsrail",
+      "hint": "dünya"
+    },
+    {
+      "word": "Filistin",
+      "hint": "dünya"
+    },
+    {
+      "word": "Mısır",
+      "hint": "dünya"
+    },
+    {
+      "word": "Libya",
+      "hint": "dünya"
+    },
+    {
+      "word": "Tunus",
+      "hint": "dünya"
+    },
+    {
+      "word": "Cezayir",
+      "hint": "dünya"
+    },
+    {
+      "word": "Fas",
+      "hint": "dünya"
+    },
+    {
+      "word": "Etiyopya",
+      "hint": "dünya"
+    },
+    {
+      "word": "Kenya",
+      "hint": "dünya"
+    },
+    {
+      "word": "Nijerya",
+      "hint": "dünya"
+    },
+    {
+      "word": "Güney Afrika",
+      "hint": "dünya"
+    },
+    {
+      "word": "Sudan",
+      "hint": "dünya"
+    },
+    {
+      "word": "Gana",
+      "hint": "dünya"
+    },
+    {
+      "word": "Senegal",
+      "hint": "dünya"
+    },
+    {
+      "word": "Mali",
+      "hint": "dünya"
+    },
+    {
+      "word": "Çad",
+      "hint": "dünya"
+    },
+    {
+      "word": "Kamerun",
+      "hint": "dünya"
+    },
+    {
+      "word": "Hindistan",
+      "hint": "dünya"
+    },
+    {
+      "word": "Pakistan",
+      "hint": "dünya"
+    },
+    {
+      "word": "Bangladeş",
+      "hint": "dünya"
+    },
+    {
+      "word": "Sri Lanka",
+      "hint": "dünya"
+    },
+    {
+      "word": "Nepal",
+      "hint": "dünya"
+    },
+    {
+      "word": "Bhutan",
+      "hint": "dünya"
+    },
+    {
+      "word": "Çin",
+      "hint": "dünya"
+    },
+    {
+      "word": "Japonya",
+      "hint": "dünya"
+    },
+    {
+      "word": "Güney Kore",
+      "hint": "dünya"
+    },
+    {
+      "word": "Tayland",
+      "hint": "dünya"
+    }
+  ],
+  "Cities": [
+    {
+      "word": "İstanbul",
+      "hint": "metropol"
+    },
+    {
+      "word": "Ankara",
+      "hint": "metropol"
+    },
+    {
+      "word": "İzmir",
+      "hint": "metropol"
+    },
+    {
+      "word": "Bursa",
+      "hint": "metropol"
+    },
+    {
+      "word": "Antalya",
+      "hint": "metropol"
+    },
+    {
+      "word": "Adana",
+      "hint": "metropol"
+    },
+    {
+      "word": "Konya",
+      "hint": "metropol"
+    },
+    {
+      "word": "Gaziantep",
+      "hint": "metropol"
+    },
+    {
+      "word": "Şanlıurfa",
+      "hint": "metropol"
+    },
+    {
+      "word": "Mersin",
+      "hint": "metropol"
+    },
+    {
+      "word": "Samsun",
+      "hint": "metropol"
+    },
+    {
+      "word": "Trabzon",
+      "hint": "metropol"
+    },
+    {
+      "word": "Erzurum",
+      "hint": "metropol"
+    },
+    {
+      "word": "Kayseri",
+      "hint": "metropol"
+    },
+    {
+      "word": "Eskişehir",
+      "hint": "metropol"
+    },
+    {
+      "word": "Sakarya",
+      "hint": "metropol"
+    },
+    {
+      "word": "Kocaeli",
+      "hint": "metropol"
+    },
+    {
+      "word": "Malatya",
+      "hint": "metropol"
+    },
+    {
+      "word": "Diyarbakır",
+      "hint": "metropol"
+    },
+    {
+      "word": "Van",
+      "hint": "metropol"
+    },
+    {
+      "word": "Tokyo",
+      "hint": "metropol"
+    },
+    {
+      "word": "Osaka",
+      "hint": "metropol"
+    },
+    {
+      "word": "Seul",
+      "hint": "metropol"
+    },
+    {
+      "word": "Pekin",
+      "hint": "metropol"
+    },
+    {
+      "word": "Şanghay",
+      "hint": "metropol"
+    },
+    {
+      "word": "Hong Kong",
+      "hint": "metropol"
+    },
+    {
+      "word": "Singapur",
+      "hint": "metropol"
+    },
+    {
+      "word": "Bangkok",
+      "hint": "metropol"
+    },
+    {
+      "word": "Kuala Lumpur",
+      "hint": "metropol"
+    },
+    {
+      "word": "Hanoi",
+      "hint": "metropol"
+    },
+    {
+      "word": "Paris",
+      "hint": "metropol"
+    },
+    {
+      "word": "Lyon",
+      "hint": "metropol"
+    },
+    {
+      "word": "Marsilya",
+      "hint": "metropol"
+    },
+    {
+      "word": "Londra",
+      "hint": "metropol"
+    },
+    {
+      "word": "Manchester",
+      "hint": "metropol"
+    },
+    {
+      "word": "Birmingham",
+      "hint": "metropol"
+    },
+    {
+      "word": "Edinburgh",
+      "hint": "metropol"
+    },
+    {
+      "word": "Berlin",
+      "hint": "metropol"
+    },
+    {
+      "word": "Münih",
+      "hint": "metropol"
+    },
+    {
+      "word": "Hamburg",
+      "hint": "metropol"
+    },
+    {
+      "word": "Roma",
+      "hint": "metropol"
+    },
+    {
+      "word": "Milano",
+      "hint": "metropol"
+    },
+    {
+      "word": "Madrid",
+      "hint": "metropol"
+    },
+    {
+      "word": "Barselona",
+      "hint": "metropol"
+    },
+    {
+      "word": "Lizbon",
+      "hint": "metropol"
+    },
+    {
+      "word": "Amsterdam",
+      "hint": "metropol"
+    },
+    {
+      "word": "Brüksel",
+      "hint": "metropol"
+    },
+    {
+      "word": "Viyana",
+      "hint": "metropol"
+    },
+    {
+      "word": "Zürih",
+      "hint": "metropol"
+    },
+    {
+      "word": "Cenevre",
+      "hint": "metropol"
+    }
+  ],
+  "Fruits": [
+    {
+      "word": "elma",
+      "hint": "meyve"
+    },
+    {
+      "word": "armut",
+      "hint": "meyve"
+    },
+    {
+      "word": "muz",
+      "hint": "pazar"
+    },
+    {
+      "word": "portakal",
+      "hint": "narenciye"
+    },
+    {
+      "word": "mandalina",
+      "hint": "narenciye"
+    },
+    {
+      "word": "greyfurt",
+      "hint": "narenciye"
+    },
+    {
+      "word": "limon",
+      "hint": "narenciye"
+    },
+    {
+      "word": "çilek",
+      "hint": "orman"
+    },
+    {
+      "word": "böğürtlen",
+      "hint": "orman"
+    },
+    {
+      "word": "ahududu",
+      "hint": "orman"
+    },
+    {
+      "word": "yaban mersini",
+      "hint": "orman"
+    },
+    {
+      "word": "dut",
+      "hint": "orman"
+    },
+    {
+      "word": "üzüm",
+      "hint": "meyve"
+    },
+    {
+      "word": "kiraz",
+      "hint": "meyve"
+    },
+    {
+      "word": "vişne",
+      "hint": "meyve"
+    },
+    {
+      "word": "erik",
+      "hint": "meyve"
+    },
+    {
+      "word": "kayısı",
+      "hint": "meyve"
+    },
+    {
+      "word": "şeftali",
+      "hint": "meyve"
+    },
+    {
+      "word": "nektarin",
+      "hint": "meyve"
+    },
+    {
+      "word": "nar",
+      "hint": "meyve"
+    },
+    {
+      "word": "kavun",
+      "hint": "meyve"
+    },
+    {
+      "word": "karpuz",
+      "hint": "meyve"
+    },
+    {
+      "word": "ananas",
+      "hint": "meyve"
+    },
+    {
+      "word": "mango",
+      "hint": "tropik"
+    },
+    {
+      "word": "papaya",
+      "hint": "tropik"
+    },
+    {
+      "word": "guava",
+      "hint": "tropik"
+    },
+    {
+      "word": "kivi",
+      "hint": "meyve"
+    },
+    {
+      "word": "avokado",
+      "hint": "meyve"
+    },
+    {
+      "word": "hurma",
+      "hint": "meyve"
+    },
+    {
+      "word": "incir",
+      "hint": "meyve"
+    },
+    {
+      "word": "liçi",
+      "hint": "tropik"
+    },
+    {
+      "word": "longan",
+      "hint": "tropik"
+    },
+    {
+      "word": "jackfruit",
+      "hint": "tropik"
+    },
+    {
+      "word": "dragon fruit",
+      "hint": "tropik"
+    },
+    {
+      "word": "pomelo",
+      "hint": "narenciye"
+    },
+    {
+      "word": "kumkuat",
+      "hint": "narenciye"
+    },
+    {
+      "word": "ayva",
+      "hint": "meyve"
+    },
+    {
+      "word": "trabzon hurması",
+      "hint": "meyve"
+    },
+    {
+      "word": "grenadilla",
+      "hint": "tropik"
+    },
+    {
+      "word": "passion",
+      "hint": "tropik"
+    },
+    {
+      "word": "rambutan",
+      "hint": "tropik"
+    },
+    {
+      "word": "physalis",
+      "hint": "tropik"
+    },
+    {
+      "word": "frenk üzümü",
+      "hint": "orman"
+    },
+    {
+      "word": "bektaşi üzümü",
+      "hint": "orman"
+    },
+    {
+      "word": "feijoa",
+      "hint": "tropik"
+    },
+    {
+      "word": "karambola",
+      "hint": "tropik"
+    },
+    {
+      "word": "sapodilla",
+      "hint": "tropik"
+    },
+    {
+      "word": "soursop",
+      "hint": "tropik"
+    },
+    {
+      "word": "salak",
+      "hint": "tropik"
+    },
+    {
+      "word": "tamarind",
+      "hint": "tropik"
+    }
+  ],
+  "Professions": [
+    {
+      "word": "öğretmen",
+      "hint": "eğitim"
+    },
+    {
+      "word": "doktor",
+      "hint": "sağlık"
+    },
+    {
+      "word": "hemşire",
+      "hint": "sağlık"
+    },
+    {
+      "word": "mühendis",
+      "hint": "ofis"
+    },
+    {
+      "word": "yazılımcı",
+      "hint": "ofis"
+    },
+    {
+      "word": "tasarımcı",
+      "hint": "ofis"
+    },
+    {
+      "word": "mimar",
+      "hint": "ofis"
+    },
+    {
+      "word": "pilot",
+      "hint": "ulaşım"
+    },
+    {
+      "word": "hostes",
+      "hint": "ulaşım"
+    },
+    {
+      "word": "itfaiyeci",
+      "hint": "meslek"
+    },
+    {
+      "word": "polis",
+      "hint": "güvenlik"
+    },
+    {
+      "word": "avukat",
+      "hint": "güvenlik"
+    },
+    {
+      "word": "hakim",
+      "hint": "güvenlik"
+    },
+    {
+      "word": "savcı",
+      "hint": "güvenlik"
+    },
+    {
+      "word": "çiftçi",
+      "hint": "saha"
+    },
+    {
+      "word": "balıkçı",
+      "hint": "saha"
+    },
+    {
+      "word": "madenci",
+      "hint": "saha"
+    },
+    {
+      "word": "şoför",
+      "hint": "ulaşım"
+    },
+    {
+      "word": "kaptan",
+      "hint": "ulaşım"
+    },
+    {
+      "word": "aşçı",
+      "hint": "hizmet"
+    },
+    {
+      "word": "garson",
+      "hint": "hizmet"
+    },
+    {
+      "word": "barista",
+      "hint": "hizmet"
+    },
+    {
+      "word": "fırıncı",
+      "hint": "hizmet"
+    },
+    {
+      "word": "kasap",
+      "hint": "hizmet"
+    },
+    {
+      "word": "terzi",
+      "hint": "zanaat"
+    },
+    {
+      "word": "kuaför",
+      "hint": "zanaat"
+    },
+    {
+      "word": "berber",
+      "hint": "zanaat"
+    },
+    {
+      "word": "manav",
+      "hint": "hizmet"
+    },
+    {
+      "word": "bakkal",
+      "hint": "hizmet"
+    },
+    {
+      "word": "eczacı",
+      "hint": "sağlık"
+    },
+    {
+      "word": "diş hekimi",
+      "hint": "sağlık"
+    },
+    {
+      "word": "veteriner",
+      "hint": "sağlık"
+    },
+    {
+      "word": "psikolog",
+      "hint": "sağlık"
+    },
+    {
+      "word": "sosyolog",
+      "hint": "meslek"
+    },
+    {
+      "word": "ekonomist",
+      "hint": "ofis"
+    },
+    {
+      "word": "bankacı",
+      "hint": "ofis"
+    },
+    {
+      "word": "muhasebeci",
+      "hint": "ofis"
+    },
+    {
+      "word": "analist",
+      "hint": "ofis"
+    },
+    {
+      "word": "pazarlamacı",
+      "hint": "meslek"
+    },
+    {
+      "word": "satış temsilcisi",
+      "hint": "meslek"
+    },
+    {
+      "word": "fotoğrafçı",
+      "hint": "sanat"
+    },
+    {
+      "word": "kameraman",
+      "hint": "sanat"
+    },
+    {
+      "word": "editör",
+      "hint": "eğitim"
+    },
+    {
+      "word": "yazar",
+      "hint": "eğitim"
+    },
+    {
+      "word": "çevirmen",
+      "hint": "eğitim"
+    },
+    {
+      "word": "oyuncu",
+      "hint": "sanat"
+    },
+    {
+      "word": "şarkıcı",
+      "hint": "sanat"
+    },
+    {
+      "word": "dansçı",
+      "hint": "sanat"
+    },
+    {
+      "word": "sporcu",
+      "hint": "sanat"
+    },
+    {
+      "word": "antrenör",
+      "hint": "sanat"
+    },
+    {
+      "word": "arkeolog",
+      "hint": "bilim"
+    },
+    {
+      "word": "antropolog",
+      "hint": "bilim"
+    },
+    {
+      "word": "biyolog",
+      "hint": "bilim"
+    },
+    {
+      "word": "kimyager",
+      "hint": "bilim"
+    },
+    {
+      "word": "fizikçi",
+      "hint": "bilim"
+    },
+    {
+      "word": "astronom",
+      "hint": "bilim"
+    },
+    {
+      "word": "meteorolog",
+      "hint": "sağlık"
+    },
+    {
+      "word": "haritacı",
+      "hint": "ofis"
+    },
+    {
+      "word": "lojistiker",
+      "hint": "ulaşım"
+    },
+    {
+      "word": "insan kaynakları",
+      "hint": "meslek"
+    }
+  ],
+  "Vehicles": [
+    {
+      "word": "otomobil",
+      "hint": "kara"
+    },
+    {
+      "word": "sedan",
+      "hint": "kara"
+    },
+    {
+      "word": "hatchback",
+      "hint": "kara"
+    },
+    {
+      "word": "suv",
+      "hint": "kara"
+    },
+    {
+      "word": "pickup",
+      "hint": "kara"
+    },
+    {
+      "word": "kamyon",
+      "hint": "kara"
+    },
+    {
+      "word": "kamyonet",
+      "hint": "kara"
+    },
+    {
+      "word": "tır",
+      "hint": "kara"
+    },
+    {
+      "word": "otobüs",
+      "hint": "kara"
+    },
+    {
+      "word": "minibüs",
+      "hint": "kara"
+    },
+    {
+      "word": "midibüs",
+      "hint": "kara"
+    },
+    {
+      "word": "tramvay",
+      "hint": "ray"
+    },
+    {
+      "word": "metro",
+      "hint": "ray"
+    },
+    {
+      "word": "tren",
+      "hint": "ray"
+    },
+    {
+      "word": "hızlı tren",
+      "hint": "ray"
+    },
+    {
+      "word": "vagon",
+      "hint": "ray"
+    },
+    {
+      "word": "lokomotif",
+      "hint": "ray"
+    },
+    {
+      "word": "uçak",
+      "hint": "hava"
+    },
+    {
+      "word": "helikopter",
+      "hint": "hava"
+    },
+    {
+      "word": "planör",
+      "hint": "hava"
+    },
+    {
+      "word": "zeplin",
+      "hint": "hava"
+    },
+    {
+      "word": "balon",
+      "hint": "hava"
+    },
+    {
+      "word": "denizaltı",
+      "hint": "deniz"
+    },
+    {
+      "word": "gemi",
+      "hint": "deniz"
+    },
+    {
+      "word": "feribot",
+      "hint": "deniz"
+    },
+    {
+      "word": "yat",
+      "hint": "deniz"
+    },
+    {
+      "word": "yelkenli",
+      "hint": "deniz"
+    },
+    {
+      "word": "sandal",
+      "hint": "deniz"
+    },
+    {
+      "word": "kano",
+      "hint": "deniz"
+    },
+    {
+      "word": "jet ski",
+      "hint": "deniz"
+    },
+    {
+      "word": "sürat teknesi",
+      "hint": "deniz"
+    },
+    {
+      "word": "bisiklet",
+      "hint": "taşıt"
+    },
+    {
+      "word": "elektrikli bisiklet",
+      "hint": "taşıt"
+    },
+    {
+      "word": "dağ bisikleti",
+      "hint": "taşıt"
+    },
+    {
+      "word": "yol bisikleti",
+      "hint": "taşıt"
+    },
+    {
+      "word": "motosiklet",
+      "hint": "kara"
+    },
+    {
+      "word": "skuter",
+      "hint": "kara"
+    },
+    {
+      "word": "segway",
+      "hint": "kara"
+    },
+    {
+      "word": "patin",
+      "hint": "taşıt"
+    },
+    {
+      "word": "tanker",
+      "hint": "kara"
+    },
+    {
+      "word": "itfaiye aracı",
+      "hint": "acil"
+    },
+    {
+      "word": "ambulans",
+      "hint": "acil"
+    },
+    {
+      "word": "polis aracı",
+      "hint": "acil"
+    },
+    {
+      "word": "çekici",
+      "hint": "kara"
+    },
+    {
+      "word": "buldozer",
+      "hint": "iş"
+    },
+    {
+      "word": "ekskavatör",
+      "hint": "iş"
+    },
+    {
+      "word": "greyder",
+      "hint": "iş"
+    },
+    {
+      "word": "forklift",
+      "hint": "iş"
+    },
+    {
+      "word": "vinç",
+      "hint": "iş"
+    },
+    {
+      "word": "kar küreme",
+      "hint": "iş"
+    },
+    {
+      "word": "kar motosikleti",
+      "hint": "kara"
+    },
+    {
+      "word": "arazi aracı",
+      "hint": "kara"
+    },
+    {
+      "word": "at arabası",
+      "hint": "taşıt"
+    },
+    {
+      "word": "fayton",
+      "hint": "taşıt"
+    },
+    {
+      "word": "rikşa",
+      "hint": "taşıt"
+    },
+    {
+      "word": "teleferik",
+      "hint": "ray"
+    },
+    {
+      "word": "füniküler",
+      "hint": "ray"
+    },
+    {
+      "word": "monoray",
+      "hint": "ray"
+    },
+    {
+      "word": "trolleybus",
+      "hint": "ray"
+    },
+    {
+      "word": "uçurtma",
+      "hint": "hava"
+    }
+  ],
+  "Instruments": [
+    {
+      "word": "gitar",
+      "hint": "yaylı"
+    },
+    {
+      "word": "piyano",
+      "hint": "tuşlu"
+    },
+    {
+      "word": "keman",
+      "hint": "yaylı"
+    },
+    {
+      "word": "viyola",
+      "hint": "yaylı"
+    },
+    {
+      "word": "viyolonsel",
+      "hint": "yaylı"
+    },
+    {
+      "word": "kontrbas",
+      "hint": "yaylı"
+    },
+    {
+      "word": "arp",
+      "hint": "yaylı"
+    },
+    {
+      "word": "mandolin",
+      "hint": "yaylı"
+    },
+    {
+      "word": "banjo",
+      "hint": "yaylı"
+    },
+    {
+      "word": "ukulele",
+      "hint": "yaylı"
+    },
+    {
+      "word": "bağlama",
+      "hint": "yaylı"
+    },
+    {
+      "word": "saz",
+      "hint": "yaylı"
+    },
+    {
+      "word": "ud",
+      "hint": "yaylı"
+    },
+    {
+      "word": "kanun",
+      "hint": "yaylı"
+    },
+    {
+      "word": "ney",
+      "hint": "nefesli"
+    },
+    {
+      "word": "kaval",
+      "hint": "nefesli"
+    },
+    {
+      "word": "duduk",
+      "hint": "yaylı"
+    },
+    {
+      "word": "zurna",
+      "hint": "nefesli"
+    },
+    {
+      "word": "klarnet",
+      "hint": "nefesli"
+    },
+    {
+      "word": "saksafon",
+      "hint": "nefesli"
+    },
+    {
+      "word": "trompet",
+      "hint": "nefesli"
+    },
+    {
+      "word": "trombon",
+      "hint": "nefesli"
+    },
+    {
+      "word": "tuba",
+      "hint": "nefesli"
+    },
+    {
+      "word": "korno",
+      "hint": "nefesli"
+    },
+    {
+      "word": "fagot",
+      "hint": "nefesli"
+    },
+    {
+      "word": "obua",
+      "hint": "nefesli"
+    },
+    {
+      "word": "flüt",
+      "hint": "nefesli"
+    },
+    {
+      "word": "pikolo",
+      "hint": "nefesli"
+    },
+    {
+      "word": "melodika",
+      "hint": "tuşlu"
+    },
+    {
+      "word": "akordeon",
+      "hint": "tuşlu"
+    },
+    {
+      "word": "harmonika",
+      "hint": "nefesli"
+    },
+    {
+      "word": "org",
+      "hint": "tuşlu"
+    },
+    {
+      "word": "synthesizer",
+      "hint": "tuşlu"
+    },
+    {
+      "word": "davul",
+      "hint": "vurmalı"
+    },
+    {
+      "word": "bateri",
+      "hint": "vurmalı"
+    },
+    {
+      "word": "konga",
+      "hint": "vurmalı"
+    },
+    {
+      "word": "bongo",
+      "hint": "vurmalı"
+    },
+    {
+      "word": "darbuka",
+      "hint": "vurmalı"
+    },
+    {
+      "word": "def",
+      "hint": "vurmalı"
+    },
+    {
+      "word": "marakas",
+      "hint": "vurmalı"
+    },
+    {
+      "word": "triangel",
+      "hint": "vurmalı"
+    },
+    {
+      "word": "vibrafon",
+      "hint": "vurmalı"
+    },
+    {
+      "word": "ksilofon",
+      "hint": "vurmalı"
+    },
+    {
+      "word": "marimba",
+      "hint": "vurmalı"
+    },
+    {
+      "word": "timpani",
+      "hint": "vurmalı"
+    },
+    {
+      "word": "kastanyet",
+      "hint": "müzik"
+    },
+    {
+      "word": "çan",
+      "hint": "vurmalı"
+    },
+    {
+      "word": "gong",
+      "hint": "vurmalı"
+    },
+    {
+      "word": "hang",
+      "hint": "vurmalı"
+    },
+    {
+      "word": "piykolu",
+      "hint": "müzik"
+    }
+  ],
+  "Household Objects": [
+    {
+      "word": "masa",
+      "hint": "oturma"
+    },
+    {
+      "word": "sandalye",
+      "hint": "oturma"
+    },
+    {
+      "word": "koltuk",
+      "hint": "oturma"
+    },
+    {
+      "word": "sehpa",
+      "hint": "oturma"
+    },
+    {
+      "word": "dolap",
+      "hint": "oturma"
+    },
+    {
+      "word": "raf",
+      "hint": "oturma"
+    },
+    {
+      "word": "çekmece",
+      "hint": "oturma"
+    },
+    {
+      "word": "ayna",
+      "hint": "oturma"
+    },
+    {
+      "word": "lamba",
+      "hint": "oturma"
+    },
+    {
+      "word": "halı",
+      "hint": "oturma"
+    },
+    {
+      "word": "perde",
+      "hint": "oturma"
+    },
+    {
+      "word": "kilim",
+      "hint": "oturma"
+    },
+    {
+      "word": "yastık",
+      "hint": "yatak"
+    },
+    {
+      "word": "yorgan",
+      "hint": "yatak"
+    },
+    {
+      "word": "çarşaf",
+      "hint": "yatak"
+    },
+    {
+      "word": "battaniye",
+      "hint": "yatak"
+    },
+    {
+      "word": "yatak",
+      "hint": "yatak"
+    },
+    {
+      "word": "şifonyer",
+      "hint": "yatak"
+    },
+    {
+      "word": "süpürge",
+      "hint": "temizlik"
+    },
+    {
+      "word": "faraş",
+      "hint": "temizlik"
+    },
+    {
+      "word": "kova",
+      "hint": "temizlik"
+    },
+    {
+      "word": "paspas",
+      "hint": "temizlik"
+    },
+    {
+      "word": "çöp kovası",
+      "hint": "temizlik"
+    },
+    {
+      "word": "çamaşır sepeti",
+      "hint": "temizlik"
+    },
+    {
+      "word": "ütü",
+      "hint": "temizlik"
+    },
+    {
+      "word": "ütü masası",
+      "hint": "oturma"
+    },
+    {
+      "word": "askı",
+      "hint": "temizlik"
+    },
+    {
+      "word": "mandal",
+      "hint": "temizlik"
+    },
+    {
+      "word": "tencere",
+      "hint": "mutfak"
+    },
+    {
+      "word": "tava",
+      "hint": "mutfak"
+    },
+    {
+      "word": "tepsi",
+      "hint": "mutfak"
+    },
+    {
+      "word": "tabak",
+      "hint": "mutfak"
+    },
+    {
+      "word": "kase",
+      "hint": "mutfak"
+    },
+    {
+      "word": "bardak",
+      "hint": "mutfak"
+    },
+    {
+      "word": "kupa",
+      "hint": "mutfak"
+    },
+    {
+      "word": "kaşık",
+      "hint": "mutfak"
+    },
+    {
+      "word": "çatal",
+      "hint": "mutfak"
+    },
+    {
+      "word": "bıçak",
+      "hint": "mutfak"
+    },
+    {
+      "word": "termos",
+      "hint": "mutfak"
+    },
+    {
+      "word": "süzgeç",
+      "hint": "mutfak"
+    },
+    {
+      "word": "rende",
+      "hint": "mutfak"
+    },
+    {
+      "word": "doğrama tahtası",
+      "hint": "mutfak"
+    },
+    {
+      "word": "spatula",
+      "hint": "mutfak"
+    },
+    {
+      "word": "kepçe",
+      "hint": "mutfak"
+    },
+    {
+      "word": "maşa",
+      "hint": "mutfak"
+    },
+    {
+      "word": "saksı",
+      "hint": "bahçe"
+    },
+    {
+      "word": "fırın",
+      "hint": "mutfak"
+    },
+    {
+      "word": "ocak",
+      "hint": "mutfak"
+    },
+    {
+      "word": "buzdolabı",
+      "hint": "mutfak"
+    },
+    {
+      "word": "mikrodalga",
+      "hint": "mutfak"
+    }
+  ],
+  "Technology": [
+    {
+      "word": "bilgisayar",
+      "hint": "donanım"
+    },
+    {
+      "word": "laptop",
+      "hint": "donanım"
+    },
+    {
+      "word": "tablet",
+      "hint": "donanım"
+    },
+    {
+      "word": "akıllı telefon",
+      "hint": "donanım"
+    },
+    {
+      "word": "sunucu",
+      "hint": "ağ"
+    },
+    {
+      "word": "modem",
+      "hint": "ağ"
+    },
+    {
+      "word": "yönlendirici",
+      "hint": "ağ"
+    },
+    {
+      "word": "anahtar",
+      "hint": "ağ"
+    },
+    {
+      "word": "erişim noktası",
+      "hint": "ağ"
+    },
+    {
+      "word": "ekran",
+      "hint": "donanım"
+    },
+    {
+      "word": "klavye",
+      "hint": "donanım"
+    },
+    {
+      "word": "fare",
+      "hint": "donanım"
+    },
+    {
+      "word": "dokunmatik",
+      "hint": "donanım"
+    },
+    {
+      "word": "yazıcı",
+      "hint": "çevre"
+    },
+    {
+      "word": "tarayıcı",
+      "hint": "çevre"
+    },
+    {
+      "word": "kamera",
+      "hint": "çevre"
+    },
+    {
+      "word": "mikrofon",
+      "hint": "çevre"
+    },
+    {
+      "word": "kulaklık",
+      "hint": "çevre"
+    },
+    {
+      "word": "hoparlör",
+      "hint": "çevre"
+    },
+    {
+      "word": "projektör",
+      "hint": "çevre"
+    },
+    {
+      "word": "ssd",
+      "hint": "bileşen"
+    },
+    {
+      "word": "hdd",
+      "hint": "bileşen"
+    },
+    {
+      "word": "ram",
+      "hint": "bileşen"
+    },
+    {
+      "word": "işlemci",
+      "hint": "bileşen"
+    },
+    {
+      "word": "ekran kartı",
+      "hint": "donanım"
+    },
+    {
+      "word": "anakart",
+      "hint": "bileşen"
+    },
+    {
+      "word": "güç kaynağı",
+      "hint": "bileşen"
+    },
+    {
+      "word": "soğutucu",
+      "hint": "bileşen"
+    },
+    {
+      "word": "fan",
+      "hint": "bileşen"
+    },
+    {
+      "word": "kasa",
+      "hint": "donanım"
+    },
+    {
+      "word": "usb",
+      "hint": "bileşen"
+    },
+    {
+      "word": "type-c",
+      "hint": "bileşen"
+    },
+    {
+      "word": "hdmi",
+      "hint": "bileşen"
+    },
+    {
+      "word": "displayport",
+      "hint": "bileşen"
+    },
+    {
+      "word": "ethernet",
+      "hint": "ağ"
+    },
+    {
+      "word": "bluetooth",
+      "hint": "ağ"
+    },
+    {
+      "word": "wifi",
+      "hint": "ağ"
+    },
+    {
+      "word": "nfc",
+      "hint": "ağ"
+    },
+    {
+      "word": "uydu",
+      "hint": "ağ"
+    },
+    {
+      "word": "gnss",
+      "hint": "ağ"
+    },
+    {
+      "word": "işletim sistemi",
+      "hint": "yazılım"
+    },
+    {
+      "word": "sürücü",
+      "hint": "yazılım"
+    },
+    {
+      "word": "kütüphane",
+      "hint": "yazılım"
+    },
+    {
+      "word": "protokol",
+      "hint": "yazılım"
+    },
+    {
+      "word": "paket",
+      "hint": "yazılım"
+    },
+    {
+      "word": "veritabanı",
+      "hint": "yazılım"
+    },
+    {
+      "word": "yapay zeka",
+      "hint": "yazılım"
+    },
+    {
+      "word": "model",
+      "hint": "yazılım"
+    },
+    {
+      "word": "veri yapısı",
+      "hint": "yazılım"
+    },
+    {
+      "word": "derleyici",
+      "hint": "yazılım"
+    }
+  ]
+}
