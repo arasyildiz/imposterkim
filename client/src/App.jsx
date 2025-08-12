@@ -1,10 +1,11 @@
 import React, { useEffect, useMemo, useState } from "react";
-import io from "socket.io-client";
+import { io } from "socket.io-client";
 import initParticles from "./particles";
 import SettingsModal from "./components/SettingsModal.jsx";
 
-const SERVER_URL = import.meta.env.VITE_SERVER_URL || "http://localhost:3001";
-const socket = io(SERVER_URL, { transports: ["websocket"] });
+// Aynı origin kullanılacak: URL belirtme
+const SERVER_URL = "";
+const socket = io("/", { transports: ["websocket"], withCredentials: true });
 
 export default function App(){
   const [view, setView] = useState("home");              // home | lobby | game | voting | results
